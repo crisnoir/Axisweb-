@@ -1,0 +1,7 @@
+{
+  "name": "AxisvIA - Legal Intelligence",
+  "description": "High-performance LegalTech platform with sovereign infrastructure and agentic legal intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
